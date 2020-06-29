@@ -6,8 +6,8 @@
 
 #include "yeelight.h"
 
-#define SSID "batcave"
-#define WIFI_PWD "iambatman!"
+#define SSID "Nacho wifi"
+#define WIFI_PWD "Nacho pass"
 #define SLEEP_WAIT 3000
 #define ACCEL_THRESHOLD 200
 #define MAX_DIMMER_VALUE 50000
